@@ -1,6 +1,6 @@
 # Hi, I’m Kacper 👋
 
-I am a fast-learning, lover of Flutter and Dart. I constantly improve my skills to become a valuable mobile developer. My goal is to join the flutter team to boost my proficiency even faster.
+I am a fast-learning, enthusiast of Flutter and Dart. I constantly improve my skills to become a valuable mobile developer. My goal is to join the flutter team to boost my proficiency even faster.
 
 ### Let's stay in touch!
 
