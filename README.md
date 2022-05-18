@@ -4,4 +4,4 @@ I am a fast-learning, enthusiast of Flutter and Dart. I constantly improve my sk
 
 ### Let's stay in touch!
 
-![Github Stats](https://github-readme-stats.vercel.app/api?username=kbronowicki&count_private=true&show_icons=true&theme=github_dark)
+[![Github Stats](https://github-readme-stats.vercel.app/api?username=kbronowicki&count_private=true&show_icons=true&theme=github_dark)](https://github.com/kbronowicki)
